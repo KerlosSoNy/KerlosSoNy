@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KerlosSoNy
 - 👀 I’m interested in Front-End And Websites
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +01019085973 / +01127033600
 
