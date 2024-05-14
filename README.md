@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KerlosSoNy
-- 👀 I’m interested in Front-End And Websites
+- 👀 I’m interested in Front-End Development 
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Alogrithmes
 - 📫 How to reach me +01019085973 
 
 
