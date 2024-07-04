@@ -4,7 +4,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React,Next etc.
 - 📚 I’m currently learning everything about Frontend and Algorithmes technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to play League of Legend.
 
 ---
 
