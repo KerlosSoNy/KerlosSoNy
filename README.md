@@ -19,8 +19,9 @@
 ---
 
 
-  <img src="https://github-readme-stats.vercel.app/api/?username=KerlosSoNy&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerlosSoNy&theme=react&line_height=40&hide=css"/>
+</a>
 
 <!---
 KerlosSoNy/KerlosSoNy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
